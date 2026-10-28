@@ -20,6 +20,9 @@
 - [Corporate Website Revamp (concept project)](https://astranexora.netlify.app/projects/corporate-website-revamp.html)
 - [Personal Branding Project (concept project)](https://astranexora.netlify.app/projects/personal-branding-project.html)
 
+## Blog
+- [Website audit checklist: 12 things to check before you spend on ads](https://astranexora.netlify.app/blog/website-audit-checklist.html): A practical 12-point website audit for business owners: speed, mobile, Google visibility, trust and enquiries. Fix these before you pay for traffic.
+
 ## Contact
 - Website: https://astranexora.netlify.app/
 - Email: info.astranexora@gmail.com

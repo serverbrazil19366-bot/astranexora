@@ -431,6 +431,26 @@ if (animate) {
 
 
 /* =====================================================
+   BLOG — highlight the section you are reading
+===================================================== */
+
+(function () {
+    const links = Array.from(document.querySelectorAll(".toc a"));
+    if (!links.length || !("IntersectionObserver" in window)) return;
+    const byId = new Map(links.map(a => [a.getAttribute("href").slice(1), a]));
+    const io = new IntersectionObserver(entries => {
+        entries.forEach(entry => {
+            if (!entry.isIntersecting) return;
+            links.forEach(a => a.classList.remove("active"));
+            const link = byId.get(entry.target.id);
+            if (link) link.classList.add("active");
+        });
+    }, { rootMargin: "-20% 0px -70% 0px" });
+    byId.forEach((_, id) => { const h = document.getElementById(id); if (h) io.observe(h); });
+})();
+
+
+/* =====================================================
    FREE AUDIT FORM → WHATSAPP
    Nothing is stored; the form opens WhatsApp with the
    details filled in.

@@ -21,6 +21,10 @@
 - [Personal Branding Project (concept project)](https://astranexora.netlify.app/projects/personal-branding-project.html)
 
 ## Blog
+- [How to show up in ChatGPT and Google AI answers: AEO and GEO explained](https://astranexora.netlify.app/blog/ai-search-optimization.html): People now ask ChatGPT, Gemini and Google's AI Overviews instead of scrolling results. Here is what AEO and GEO mean and what you can do to be the answer.
+- [Google Business Profile: set it up and get found on Maps](https://astranexora.netlify.app/blog/google-business-profile-guide.html): A plain guide to setting up and improving your Google Business Profile: categories, services, photos, reviews, posts and the mistakes that cost you calls.
+- [Local SEO for small businesses: a step-by-step guide](https://astranexora.netlify.app/blog/local-seo-guide.html): How to show up when people nearby search for what you sell: Google Business Profile, location pages, reviews, citations and the website fixes that matter.
+- [SEO vs Google Ads: which should a small business start with?](https://astranexora.netlify.app/blog/seo-vs-google-ads.html): SEO builds free traffic over time; Google Ads buys traffic today. How each works, what each costs you, and how to decide where to start.
 - [Website audit checklist: 12 things to check before you spend on ads](https://astranexora.netlify.app/blog/website-audit-checklist.html): A practical 12-point website audit for business owners: speed, mobile, Google visibility, trust and enquiries. Fix these before you pay for traffic.
 
 ## Contact

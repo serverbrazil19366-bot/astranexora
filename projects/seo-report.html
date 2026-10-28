@@ -1,0 +1,189 @@
+<!DOCTYPE html>
+<html lang="en-IN">
+<head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<title>SEO Report Dashboard — Sample | Astra Nexora</title>
+<meta content="A sample of the monthly SEO report dashboard Astra Nexora builds for clients: organic traffic, enquiries from search, keyword rankings, Google Business Profile and site health." name="description"/>
+<meta content="#0A0F2C" name="theme-color"/>
+<link href="https://astranexora.netlify.app/projects/seo-report.html" rel="canonical"/>
+<meta content="index, follow, max-image-preview:large" name="robots"/>
+<link href="../assets/favicon-48.png" rel="icon" sizes="48x48" type="image/png"/>
+<link href="../assets/favicon-192.png" rel="icon" sizes="192x192" type="image/png"/>
+<link href="https://fonts.googleapis.com" rel="preconnect"/>
+<link crossorigin="" href="https://fonts.gstatic.com" rel="preconnect"/>
+<link href="https://fonts.googleapis.com/css2?family=Oswald:wght@400;500;600;700&amp;family=Crimson+Text:ital,wght@0,400;0,600;0,700;1,400&amp;display=swap" rel="stylesheet"/>
+<link href="../css/style.css" rel="stylesheet"/>
+<link href="../css/dashboard.css" rel="stylesheet"/>
+</head>
+<body class="dash-body">
+<a class="skip-link" href="#report">Skip to report</a>
+
+<header class="dash-topbar">
+<div class="dash-topbar-inner">
+<a aria-label="Astra Nexora — back to the website" class="dash-brand" href="../index.html#work">
+<span class="logo-text">AstraNexora<small>Next Era in Digital Marketing</small></span>
+</a>
+<span class="dash-sample-pill"><span aria-hidden="true"></span>Sample report · illustrative data</span>
+<a class="dash-back" href="../index.html#work"><span aria-hidden="true">←</span> Back to projects</a>
+</div>
+</header>
+
+<main class="dash-main" id="report">
+
+<section aria-labelledby="dashTitle" class="dash-head">
+<div>
+<p class="dash-kicker">SEO REPORT DASHBOARD</p>
+<h1 id="dashTitle">Search performance</h1>
+<p class="dash-client">Sample client · Dental lab, Tamil Nadu · Updated 1 Nov 2026</p>
+</div>
+<div aria-label="Report period" class="dash-range" role="group">
+<button aria-pressed="false" data-range="3" type="button">3 months</button>
+<button aria-pressed="true" data-range="6" type="button">6 months</button>
+<button aria-pressed="false" data-range="12" type="button">12 months</button>
+</div>
+</section>
+
+<p class="dash-note">
+            This is a sample of the monthly report we build for clients. The numbers
+            are illustrative, not a real client's results. A live version connects to
+            Google Search Console, Google Analytics 4 and Google Business Profile.
+        </p>
+
+<!-- KPI tiles -->
+<section aria-label="Key numbers" class="kpi-grid" id="kpis"></section>
+
+<div class="dash-grid">
+
+<!-- Organic clicks -->
+<section aria-labelledby="clicksTitle" class="dash-card dash-span-2">
+<div class="dash-card-head">
+<div>
+<h2 id="clicksTitle">Organic clicks from Google</h2>
+<p class="dash-card-sub">Visits that came from unpaid Google search, per month</p>
+</div>
+</div>
+<div class="chart" data-chart="clicks"></div>
+<details class="dash-table-toggle">
+<summary>View as table</summary>
+<div class="table-wrap"><table data-table="clicks"></table></div>
+</details>
+</section>
+
+<!-- Enquiries by source -->
+<section aria-labelledby="leadsTitle" class="dash-card dash-span-2">
+<div class="dash-card-head">
+<div>
+<h2 id="leadsTitle">Enquiries from search</h2>
+<p class="dash-card-sub">Calls, WhatsApp chats and form fills from people who found the site on Google</p>
+</div>
+<ul aria-label="Legend" class="legend">
+<li><i style="background: var(--series-1)"></i>Calls</li>
+<li><i style="background: var(--series-2)"></i>WhatsApp</li>
+<li><i style="background: var(--series-3)"></i>Forms</li>
+</ul>
+</div>
+<div class="chart" data-chart="leads"></div>
+<details class="dash-table-toggle">
+<summary>View as table</summary>
+<div class="table-wrap"><table data-table="leads"></table></div>
+</details>
+</section>
+
+<!-- Keywords -->
+<section aria-labelledby="kwTitle" class="dash-card dash-span-2">
+<div class="dash-card-head">
+<div>
+<h2 id="kwTitle">Keyword rankings</h2>
+<p class="dash-card-sub">Google position today and the change over the selected period</p>
+</div>
+</div>
+<div class="table-wrap">
+<table class="data-table" id="keywordTable">
+<thead><tr><th scope="col">Keyword</th><th class="num" scope="col">Position</th><th class="num" scope="col">Change</th><th class="num" scope="col">Clicks</th></tr></thead>
+<tbody></tbody>
+</table>
+</div>
+</section>
+
+<!-- Site health -->
+<section aria-labelledby="healthTitle" class="dash-card">
+<div class="dash-card-head">
+<div>
+<h2 id="healthTitle">Site health</h2>
+<p class="dash-card-sub">Core Web Vitals on mobile</p>
+</div>
+</div>
+<ul class="health-list">
+<li><span class="status status-good"><span aria-hidden="true">✓</span> Good</span><strong>LCP</strong><span>1.9 s</span><small>Largest content shows</small></li>
+<li><span class="status status-good"><span aria-hidden="true">✓</span> Good</span><strong>INP</strong><span>140 ms</span><small>Responds to taps</small></li>
+<li><span class="status status-good"><span aria-hidden="true">✓</span> Good</span><strong>CLS</strong><span>0.02</span><small>Layout stays still</small></li>
+<li><span class="status status-warn"><span aria-hidden="true">!</span> Fix</span><strong>Images</strong><span>3 pages</span><small>Missing alt text</small></li>
+</ul>
+</section>
+
+<!-- Google Business Profile -->
+<section aria-labelledby="gbpTitle" class="dash-card">
+<div class="dash-card-head">
+<div>
+<h2 id="gbpTitle">Google Business Profile</h2>
+<p class="dash-card-sub">Actions on the map listing, selected period</p>
+</div>
+</div>
+<ul class="gbp-list" id="gbpList"></ul>
+</section>
+
+<!-- Top pages -->
+<section aria-labelledby="pagesTitle" class="dash-card">
+<div class="dash-card-head">
+<div>
+<h2 id="pagesTitle">Top landing pages</h2>
+<p class="dash-card-sub">Organic clicks, selected period</p>
+</div>
+</div>
+<ol class="page-bars" id="pageBars"></ol>
+</section>
+
+<!-- Work log -->
+<section aria-labelledby="workTitle" class="dash-card">
+<div class="dash-card-head">
+<div>
+<h2 id="workTitle">Work log</h2>
+<p class="dash-card-sub">What we did, and what's next</p>
+</div>
+</div>
+<div class="worklog">
+<h3>Done this month</h3>
+<ul>
+<li>Rewrote titles and descriptions on 8 product pages</li>
+<li>Published a guide page on zirconia vs E-max crowns</li>
+<li>Added FAQ schema to the service pages</li>
+<li>Posted 4 Google Business Profile updates</li>
+</ul>
+<h3>Next month</h3>
+<ul>
+<li>Add alt text on the 3 flagged pages</li>
+<li>Build a page for implant prosthetics in Bengaluru</li>
+<li>Ask 10 recent clients for Google reviews</li>
+</ul>
+</div>
+</section>
+
+</div>
+
+<section class="dash-cta">
+<div>
+<h2>Want this report for your business?</h2>
+<p>Every Astra Nexora SEO client gets a monthly dashboard like this, built on their own data.</p>
+</div>
+<a class="btn-primary" href="../index.html#contact">Get a free website audit <span aria-hidden="true">↗</span></a>
+</section>
+
+</main>
+
+<div aria-hidden="true" class="chart-tooltip" id="chartTooltip" role="presentation"></div>
+
+<script defer src="../js/dashboard.js"></script>
+<script>if("scrollRestoration"in history)history.scrollRestoration="manual";addEventListener("load",function(){if(!location.hash){scrollTo(0,0);var t=document.querySelector(".dash-topbar");t&&t.scrollIntoView({block:"start",behavior:"instant"});}});</script>
+</body>
+</html>

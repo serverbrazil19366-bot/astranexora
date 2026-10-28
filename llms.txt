@@ -1,0 +1,28 @@
+# Astra Nexora
+
+> Astra Nexora (AstraNexora) is a digital marketing agency in Tamil Nadu, India. Tagline: Next Era in Digital Marketing. Founded in 2025 by S. Saktheeswaran (Sakthi), Founder & Managing Director. Serves businesses across India.
+
+## Services
+- [Search Engine Optimization (SEO)](https://astranexora.netlify.app/services/seo.html): Rank on Google, maps and AI search
+- [Social Media Marketing](https://astranexora.netlify.app/services/social-media-marketing.html): Grow and engage your audience
+- [Performance Marketing & Paid Ads](https://astranexora.netlify.app/services/performance-marketing.html): Google, Meta and LinkedIn ads
+- [Content Marketing & Creative](https://astranexora.netlify.app/services/content-marketing.html): Copy, design and video
+- [Website Design & Development](https://astranexora.netlify.app/services/website-development.html): Fast websites that convert
+- [Branding & Personal Branding](https://astranexora.netlify.app/services/branding.html): Identities and personal brands
+- [Email & Lead Generation](https://astranexora.netlify.app/services/email-lead-generation.html): Funnels, email and nurturing
+- [AI Solutions & Marketing Automation](https://astranexora.netlify.app/services/ai-automation.html): Chatbots, n8n and WhatsApp
+
+## Work
+- [SEO report dashboard (sample data)](https://astranexora.netlify.app/projects/seo-report.html)
+- [Premium Business Website (concept project)](https://astranexora.netlify.app/projects/premium-business-website.html)
+- [Healthcare Brand Identity (concept project)](https://astranexora.netlify.app/projects/healthcare-brand-identity.html)
+- [SEO Growth Campaign (concept project)](https://astranexora.netlify.app/projects/seo-growth-campaign.html)
+- [Corporate Website Revamp (concept project)](https://astranexora.netlify.app/projects/corporate-website-revamp.html)
+- [Personal Branding Project (concept project)](https://astranexora.netlify.app/projects/personal-branding-project.html)
+
+## Contact
+- Website: https://astranexora.netlify.app/
+- Email: info.astranexora@gmail.com
+- WhatsApp: https://wa.me/918838417707
+- Instagram: https://www.instagram.com/astranexora2025/
+- LinkedIn: https://www.linkedin.com/company/astra-nexora/

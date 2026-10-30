@@ -1035,3 +1035,4 @@ ul, ol { margin: 0; padding: 0; list-style: none; }
 .prose .author-box a { text-decoration: none; }
 .pfig .img-wrap { overflow: hidden; }
 @media (max-width: 700px) { .post-hero .ph-bg .hero-dots, .post-hero .shapes { display: none; } }
+.author-box a + a { margin-left: 18px; }

@@ -1,6 +1,6 @@
 # Astra Nexora
 
-> Astra Nexora (AstraNexora) is a digital marketing agency in Tamil Nadu, India. Tagline: Next Era in Digital Marketing. Founded in 2025 by S. Saktheeswaran (Sakthi), Founder & Managing Director. Serves businesses across India.
+> Astra Nexora (AstraNexora) is a digital marketing agency in Tamil Nadu, India. Tagline: Next Era in Digital Marketing. Founded in 2025 by S. Saktheeswaran (Sakthi), Founder & Managing Director (portfolio: https://saktheeswaran.netlify.app/). Serves businesses across India.
 
 ## Services
 - [Search Engine Optimization (SEO)](https://astranexora.netlify.app/services/seo.html): Rank on Google, maps and AI search

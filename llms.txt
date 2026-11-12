@@ -11,9 +11,11 @@
 - [Branding & Personal Branding](https://astranexora.netlify.app/services/branding.html): Identities and personal brands
 - [Email & Lead Generation](https://astranexora.netlify.app/services/email-lead-generation.html): Funnels, email and nurturing
 - [AI Solutions & Marketing Automation](https://astranexora.netlify.app/services/ai-automation.html): Chatbots, n8n and WhatsApp
+- [Automated Lead Generation & Outreach](https://astranexora.netlify.app/services/lead-generation-automation.html): Find and email new clients on autopilot
 
 ## Work
 - [SEO report dashboard (sample data)](https://astranexora.netlify.app/projects/seo-report.html)
+- [Automated Lead Outreach System (case study)](https://astranexora.netlify.app/projects/lead-outreach-system.html)
 - [Premium Business Website (concept project)](https://astranexora.netlify.app/projects/premium-business-website.html)
 - [Healthcare Brand Identity (concept project)](https://astranexora.netlify.app/projects/healthcare-brand-identity.html)
 - [SEO Growth Campaign (concept project)](https://astranexora.netlify.app/projects/seo-growth-campaign.html)

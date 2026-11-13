@@ -12,6 +12,7 @@
 - [Email & Lead Generation](https://astranexora.netlify.app/services/email-lead-generation.html): Funnels, email and nurturing
 - [AI Solutions & Marketing Automation](https://astranexora.netlify.app/services/ai-automation.html): Chatbots, n8n and WhatsApp
 - [Automated Lead Generation & Outreach](https://astranexora.netlify.app/services/lead-generation-automation.html): Find and email new clients on autopilot
+- [WhatsApp Business API Marketing](https://astranexora.netlify.app/services/whatsapp-business-api-marketing.html): Personalised campaigns on the official API
 
 ## Work
 - [SEO report dashboard (sample data)](https://astranexora.netlify.app/projects/seo-report.html)
@@ -23,6 +24,7 @@
 - [Personal Branding Project (concept project)](https://astranexora.netlify.app/projects/personal-branding-project.html)
 
 ## Blog
+- [WhatsApp Business API in India: send campaigns without a monthly fee](https://astranexora.netlify.app/blog/whatsapp-business-api-india.html): How to use the official WhatsApp Business API in India for personalised campaigns: Meta verification, approved templates, costs, safe sending and avoiding bans.
 - [How to choose a digital marketing agency in Tamil Nadu](https://astranexora.netlify.app/blog/digital-marketing-agency-tamil-nadu.html): Looking for a digital marketing agency in Tamil Nadu? What a good agency should do, the questions to ask, red flags to avoid and what results to expect.
 - [Digital marketing for dentists: how clinics get more patients](https://astranexora.netlify.app/blog/digital-marketing-for-dentists.html): A practical digital marketing plan for dental clinics: treatment pages, local SEO, Google Business Profile, reviews, ads, social media and WhatsApp booking.
 - [Google Ads for small business in India: a practical guide](https://astranexora.netlify.app/blog/google-ads-small-business-india.html): How small businesses in India can use Google Ads to get calls and enquiries: campaign types, budgets, keywords, landing pages and the mistakes that waste money.

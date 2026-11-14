@@ -259,6 +259,7 @@ ul, ol { margin: 0; padding: 0; list-style: none; }
 }
 .hero-cats { display: flex; flex-wrap: wrap; gap: 0; margin-bottom: 22px; color: var(--white); font-size: 17px; }
 .hero-cats span + span::before { content: "|"; margin: 0 14px; opacity: .7; }
+.hero-brand { margin-bottom: 10px; color: var(--white); font-family: Oswald, sans-serif; font-size: 15px; font-weight: 500; letter-spacing: .18em; text-transform: uppercase; opacity: .85; }
 .hero-title {
     color: var(--white); font-weight: 700; font-size: clamp(42px, 4.9vw, 86px); line-height: 1.06;
     margin-bottom: 30px; position: relative;
